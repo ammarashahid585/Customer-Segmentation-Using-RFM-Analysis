@@ -13,8 +13,6 @@ Dataset me sales details hain jisme:
 * **Frequency:** Customer ne kitni dafa purchase kiya
 * **Monetary:** Customer ne total kitna paisa spend kiya
 
-👉 In teen metrics ki base par har customer ko score assign kiya gaya aur groups banaye gaye.
-
 **Steps Performed**
 
 * Dataset import aur preprocessing kiya
